@@ -30,7 +30,7 @@
 
 ### 📫 Contact Me
 
-- 📩 Email: maxime.debarge@proton.me  
+- 📩 Email: alexraphmax@gmail.com
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
