@@ -31,8 +31,8 @@
 ### 📫 Contact Me
 
 - 📩 Email: alexraphmax@gmail.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/maxime-debarge-94a3b92a6/))
+- 🌐 Portfolio: My Portfolo(https://your-portfolio-link.com)  
+- 💼 LinkedIn: About my LinkedIn ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/maxime-debarge-94a3b92a6/))
 
 ---
 
